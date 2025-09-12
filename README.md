@@ -32,7 +32,7 @@
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=ros" height="80" alt="ros logo"  />
   <img width="28" />
-  <img src="https://raw.githubusercontent.com/andresalemn/andresalemn/aee184fa3c70f66388aa63486e041534cac3afbd/icons/platformio.svg" height="47" alt="ros logo"  />
+  <img src="https://raw.githubusercontent.com/andresalemn/andresalemn/aee184fa3c70f66388aa63486e041534cac3afbd/icons/platformio.svg" height="47" alt="pio logo"  />
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
   <img width="28" />
