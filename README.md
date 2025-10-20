@@ -30,6 +30,8 @@
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=matlab" height="80" alt="matlab logo"  />
   <img width="28" />
+  <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"  />
+  <img width="28" />
   <img src="https://skillicons.dev/icons?i=ros" height="80" alt="ros logo"  />
   <img width="28" />
   <img src="https://raw.githubusercontent.com/andresalemn/andresalemn/aee184fa3c70f66388aa63486e041534cac3afbd/icons/platformio.svg" height="47" alt="pio logo"  />
@@ -38,7 +40,7 @@
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" alt="raspberrypi logo"  />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="80" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="80" alt="arduino logo"  />  
 </div>
 
 ###
