@@ -40,6 +40,8 @@
   <img width="28" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" alt="raspberrypi logo"  />
   <img width="28" />
+  <img src="https://skillicons.dev/icons?i=latex" height="80" alt="latex logo"  />
+  <img width="28" />
   <img src="https://skillicons.dev/icons?i=arduino" height="80" alt="arduino logo"  />  
 </div>
 
