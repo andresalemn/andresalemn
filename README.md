@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://github-stats-extended-alemaniaco.vercel.app/api/top-langs?username=andresalemn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andresalemn&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-git-vercel-alemaniaco.vercel.app?user=andresalemn&theme=github-dark&hide_border=true&border_radius=5&mode=weekly&card_height=150" alt="GitHub Streak"  />
 </div>
 
 ###
@@ -59,11 +59,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andresalemn/andresalemn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andresalemn/andresalemn/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12124580924&unique={true|1|on|yes}" alt="Spotify recently played"  />
-</div>
 
 ###
