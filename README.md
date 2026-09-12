@@ -24,25 +24,31 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="C++" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="VS Code" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="80" alt="matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="80" alt="MATLAB" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=linux" height="80" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="80" alt="Linux" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=ros" height="80" alt="ros logo"  />
+  <img src="https://skillicons.dev/icons?i=ros" height="80" alt="ROS 2" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://raw.githubusercontent.com/andresalemn/andresalemn/aee184fa3c70f66388aa63486e041534cac3afbd/icons/platformio.svg" height="47" alt="pio logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="80" alt="Docker" style="vertical-align:middle" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="80" alt="Git" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/andresalemn/andresalemn/aee184fa3c70f66388aa63486e041534cac3afbd/icons/platformio.svg" height="47" alt="PlatformIO" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" alt="raspberrypi logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="80" alt="Python" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=latex" height="80" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="80" alt="Raspberry Pi" style="vertical-align:middle" />
   <img width="28" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="80" alt="arduino logo"  />  
+  <img src="https://skillicons.dev/icons?i=latex" height="80" alt="LaTeX" style="vertical-align:middle" />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="80" alt="Arduino" style="vertical-align:middle" />
 </div>
 
 ###
